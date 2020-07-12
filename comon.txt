@@ -1,1 +1,2 @@
-fuction a(){}
+fuction a(){
+fuction abc(){}}
