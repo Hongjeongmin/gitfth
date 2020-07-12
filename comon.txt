@@ -1,2 +1,4 @@
-fuction b(){}
-fuction a(){}
+function b(){
+}
+function a(){
+}
